@@ -10,3 +10,5 @@ Post Covid19 pandemic, the world needs to be a better place for everyone. Right 
 
 - 🔭 I’m currently working on Webscraping and Data analysis using R
 - 🌱 I’m currently learning Tableau, Machine Learning
+
+Contact me on - pfalguni307@gmail.com
